@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericktreichel
 - 👀 I’m interested in learning about programming and IT in general 
-- 🌱 I’m currently learning SQL, Java and JavaScript
+- 🌱 I’m currently learning SQL, HTML/CSS, Java and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

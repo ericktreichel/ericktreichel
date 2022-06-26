@@ -1,7 +1,8 @@
-![dune1](https://user-images.githubusercontent.com/106178471/175835844-bb231413-8290-4e91-aeb9-46137bd1948d.png)
-- 
-- 👋 Hi, I’m @ericktreichel and I'm just starting!
+<!-- ![dune1](https://user-images.githubusercontent.com/106178471/175835844-bb231413-8290-4e91-aeb9-46137bd1948d.png) -->
+![found](https://user-images.githubusercontent.com/106178471/175836166-98d362f3-65df-497b-a176-8df82b7c2d39.jpg)
 
+
+- 👋 Hi, I’m @ericktreichel and I'm just starting!
 - 👀 I’m interested in learning about programming and IT in general.
 - 🌱 I’m currently learning SQL, HTML/CSS, Java and JavaScript, ReactJS and Python.
 - 💞️ I’m looking to collaborate on new projects and ideas.

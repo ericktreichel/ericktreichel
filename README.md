@@ -14,7 +14,7 @@
 - 🚀 I'm very motivated to learn and grow as a developer, and to be able to do something meaningful for the world (and the people in it) in the future.
 
   Sou formado em Engenharia Civil pela Universidade Federal do Rio Grande, e atualmente me desenvolvo na área de TI.
-Comom sede de obter e compartilhar conhecimento 🔁
+Sempre com sede de obter e compartilhar conhecimento 🔁
 <!---
 ericktreichel/ericktreichel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

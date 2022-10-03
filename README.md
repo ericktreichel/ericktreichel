@@ -6,8 +6,8 @@
 
 - 👋 Hi there, I’m @ericktreichel and I'm just starting my stuff here!
 - 👀 I’m (very) interested in learning about programming and IT in general.
-- 🐥 I've learned (so far) SQL, HTML, CSS and JavaScript.
-- 🌱 I’m currently learning Python.
+- 🐥 I've learned (so far) SQL, HTML, CSS, JavaScript and Python.
+- 🌱 I’m currently learning JavaScript and Node.js.
 - 🐾 I'l learn next: Who knows?! I'm open to learn any language/framework, anything!
 - 💞️ I’m looking to collaborate on new projects and ideas.
 - 📫 How to reach me: by e-mail: (erickfili25@gmail.com) and Linkedin (https://www.linkedin.com/in/ericktreichel/).

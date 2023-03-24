@@ -6,14 +6,14 @@
 
 - 👋 Hi there, I’m @ericktreichel and I'm just starting my stuff here!
 - 👀 I’m (very) interested in learning about programming and IT in general.
-- 🐥 I've learned (so far) SQL, HTML, CSS, JavaScript and Python.
-- 🌱 I’m currently learning JavaScript and Node.js.
+- 🐥 I've learned (so far) JavaScript, Typescript and Python for programming, and SQL and MongoDB for data persistence.
+- 🌱 I’m currently focusing mostly JS and TS.
 - 🐾 I'l learn next: Who knows?! I'm open to learn any language/framework, anything!
 - 💞️ I’m looking to collaborate on new projects and ideas.
 - 📫 How to reach me: by e-mail: (erickfili25@gmail.com) and Linkedin (https://www.linkedin.com/in/ericktreichel/).
 - 🚀 I'm very motivated to learn and grow as a developer, and then be able to do something meaningful for the world (and the people in it) in the future. 🌎
 
-  Sou formado em Engenharia Civil pela Universidade Federal do Rio Grande, e atualmente me desenvolvo na área de TI.
+  Sou formado em Engenharia Civil Costeira pela Universidade Federal do Rio Grande, e atualmente me desenvolvo na área de TI.
 Sempre com sede de obter e compartilhar conhecimento. 🔁
 <!---
 ericktreichel/ericktreichel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,3 @@
-<!-- ![dune1](https://user-images.githubusercontent.com/106178471/175835844-bb231413-8290-4e91-aeb9-46137bd1948d.png) -->
-<!-- ![found](https://user-images.githubusercontent.com/106178471/175836166-98d362f3-65df-497b-a176-8df82b7c2d39.jpg)-->
 ![found](https://user-images.githubusercontent.com/106178471/176327973-acd20274-76a5-4f5c-8556-be5d65d489b2.jpg)
 
 
@@ -7,11 +5,9 @@
 - 👋 Hi there, I’m @ericktreichel and I'm just starting my stuff here!
 - ➡ I'm not adding new stuff here because I'm working mostly on private repos from my employer. 
 - 👀 I’m (truly and deeply) interested in learning about programming, IT and technology in general.
-- 🐥 I've learned (so far) JavaScript, Typescript and Python for programming, and SQL and MongoDB for data persistence.
+- 🐥 I've learned (so far) JavaScript, Typescript and Python for programming; SQL and MongoDB for data persistence.
 - ⚛ Frameworks that I've worked so far: Vue, Nuxt and Nestjs for JS/TS and Flask for Python.
 - 🌱 I’m currently focusing mostly JS and TS.
-- 🐾 I'l learn next: Who knows?! I'm open to learn any language/framework, anything!
-- 💞️ I’m looking to collaborate on new projects and ideas.
 - 📫 How to reach me: by e-mail: (erickfili25@gmail.com) and Linkedin (https://www.linkedin.com/in/ericktreichel/).
 - 🚀 I'm very motivated to learn and grow as a developer, and then be able to do something meaningful for the world (and the people in it) in the future. 🌎
 

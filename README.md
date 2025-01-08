@@ -11,7 +11,7 @@
 - 📫 You can reach me by e-mail at erickfili25@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/ericktreichel/.
 - 🚀 I'm highly motivated to learn and grow as a developer, with the aim of creating (and help others create) something meaningful for the world and its people in the future. 🌎
 
-  Formado em Engenharia Civil Costeira pela Universidade Federal do Rio Grande, e atualmente me desenvolvo na área de TI.
+  Formado em Engenharia Civil Costeira pela Universidade Federal do Rio Grande, e atualmente me desenvolvo na área de TI, cursando Pós-graduação em Engenharia de Software.
 Sempre com sede de obter e compartilhar conhecimento. 🔁
 
 <!---

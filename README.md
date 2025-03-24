@@ -2,15 +2,14 @@
 
 
 
-- 👋 Hey there, I’m @ericktreichel and I'm just getting started here!
-- ➡ I'm not adding new stuff to my public repos at the moment because I'm mostly focused on working with private repos for my employer. 
-- 👀 I’m (truly and deeply) interested in learning about programming, IT and technology in general, as well as economics and social issues.
+- 👋 Hey there, I’m @ericktreichel , a civil engineer and developer and I'm just getting started here!
+- 👀 I’m (truly and deeply) interested in learning about programming, IT and technology in general, as well as economics and social issues/matters.
 - 💡 I strongly believe that technology, combined with people interested in the collective, is our best chance to transform the world and people's lives for the better.
 - 🐥 I've already learned JavaScript, Typescript, and Python for programming, as well as SQL and MongoDB for data persistence.
 - ⚛ So far, I've worked with frameworks like Vue, Nuxt, and Nestjs for JS/TS, and Flask for Python.
 - 🌱 Currently, I'm dedicated to honing my skills in JS and TS. I'm also starting to dive into Java.
-- 📫 You can reach me by e-mail at erickfili25@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/ericktreichel/.
-- 🚀 I'm highly motivated to learn and grow as a developer, with the aim of creating (and help others create) something meaningful for the world and its people in the future. 🌎
+- 📫 You can reach me by e-mail at erickfili25@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/ericktreichel.
+- 🚀 I'm highly motivated to learn and grow as a developer, with the aim of creating (and help others to create) something meaningful for the world and the people in it. 🌎
 
   Formado em Engenharia Civil Costeira pela Universidade Federal do Rio Grande, e atualmente me desenvolvo na área de TI, sendo Pós-graduado em Engenharia de Software.
 Sempre com sede de obter e compartilhar conhecimento. 🔁
